@@ -2,7 +2,7 @@
 
 # ⚽ European Football Analysis & Insights  
 
-![Football Banner](https://your-image-link.com)  
+
 
 ## 📌 Project Overview  
 This project analyzes **European football data** using **Python, Pandas, Matplotlib, Seaborn, and Plotly**. It includes:  
